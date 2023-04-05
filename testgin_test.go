@@ -21,7 +21,3 @@ func Cnew() {
 func Cnewupdated() {
 	fmt.Println("Hi Himanshu Dhiman")
 }
-
-func AddNum(num1, num2 int) int {
-	return num1 + num2
-}
